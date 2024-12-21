@@ -86,3 +86,7 @@ java -cp <path-to-compiled-classes> client.ChatLauncher
 - `@<username> <message>`: Send a private message
 - `@all <message>`: Send a message to all users
 - `!<username>`: Send a random insult to a user
+
+
+## Contributor
+Chun-Cheng Liu & Tamir Yirga
